@@ -1,4 +1,4 @@
-package kotlin
+package kotlin_features
 
 /**
  * Created by jmarkstar on 15/01/2017.
